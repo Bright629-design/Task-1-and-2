@@ -17,5 +17,5 @@ Python scripts for map visualization of locations including Nairobi and Australi
 - NumPy
 
 ## Author
-NAME: Emilio kipchirchir Cheruiyot
-REG NO.: CIT-227-049/2024
+NAME: Emilio Cheruiyot
+
